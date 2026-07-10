@@ -1,0 +1,11 @@
+# Ignored files for CS & UD AI project
+*.mp4
+*.avi
+*.mov
+*.zip
+*.rar
+.ipynb_checkpoints/
+__pycache__/
+.vs/
+.idea/
+*.log

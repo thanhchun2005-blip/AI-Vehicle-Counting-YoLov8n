@@ -1,0 +1,8 @@
+names:
+- car
+- motorcycle
+- bus
+- truck
+nc: 4
+train: /kaggle/input/datasets/chunaiu/project-ai-final/Kaggle_Cleaned/images
+val: /kaggle/input/datasets/chunaiu/project-ai-final/Kaggle_Cleaned/images

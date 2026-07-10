@@ -1,0 +1,8 @@
+names:
+- car
+- motorcycle
+- bus
+- truck
+nc: 4
+train: /kaggle/input/final-project-ai/Kaggle_Cleaned/Kaggle_Cleaned/images
+val: /kaggle/input/final-project-ai/Kaggle_Cleaned/Kaggle_Cleaned/images
